@@ -1,6 +1,6 @@
 # Hi there, I'm Ammar Talal
 
-## :woman_technologist: About Me :
+## :man_technologist: About Me :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatalError98&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
