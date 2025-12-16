@@ -31,8 +31,6 @@ Predicts chess game outcomes using logistic regression with Elastic Net regulari
 
 ### 🎓 Undergraduate Projects
 
----
-
 #### 🗄️ Desktop Application: Inventory Management System
 A desktop application built using C# Windows Forms and Entity Framework to manage inventory records efficiently. The system supports creating, updating, and tracking items while maintaining data integrity through a relational database. Designed to simplify inventory operations and improve accuracy through a user-friendly interface.
 
