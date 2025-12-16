@@ -27,6 +27,13 @@ Predicts chess game outcomes using logistic regression with Elastic Net regulari
 
 [Project Repository](https://github.com/FatalError98/Chess_Game_Outcome_Prediction)
 
+#### Restaurant Company Database
+A relational database project modeling a restaurant company’s organizational and supply-chain structure. The schema was designed from an ER diagram and mapped into normalized relational tables using PostgreSQL. Includes an ORM implementation using SQLAlchemy for application-level access.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-blue) ![Database Design](https://img.shields.io/badge/Database%20Design-ER%20Modeling-success) ![ORM](https://img.shields.io/badge/ORM-SQLAlchemy-red) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+[Project Repository]([https://github.com/FatalError98/Inventory_Managment](https://github.com/FatalError98/Resturants_Company_Database))
+
 ---
 
 ### 🎓 Undergraduate Projects
