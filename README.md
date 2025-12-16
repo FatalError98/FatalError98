@@ -31,6 +31,8 @@ Predicts chess game outcomes using logistic regression with Elastic Net regulari
 
 ### 🎓 Undergraduate Projects
 
+---
+
 #### 🗄️ Desktop Application: Inventory Management System
 A desktop application built using C# Windows Forms and Entity Framework to manage inventory records efficiently. The system supports creating, updating, and tracking items while maintaining data integrity through a relational database. Designed to simplify inventory operations and improve accuracy through a user-friendly interface.
 
@@ -38,7 +40,6 @@ A desktop application built using C# Windows Forms and Entity Framework to manag
 
 [Project Repository](https://github.com/FatalError98/Inventory_Managment)
 
----
 #### 📱 Mobile Application: BMI Calculator
 A mobile application built with Flutter and Dart that calculates Body Mass Index (BMI) based on user input. The app provides instant feedback and BMI classification through a simple, intuitive interface. Designed as a lightweight Android application focusing on usability and clean UI.
 
