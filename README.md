@@ -19,6 +19,12 @@ I'm a Data Science graduate student with a background in IT Support and Informat
 ## Projects
 
 ### 🎓 Graduate Projects
+#### ♟️ Chess Game Outcome Anaylsis
+This project analyzes a large-scale dataset of online chess games collected from the Lichess platform. Using game-level metadata and detailed move-by-move information, the project explores factors that influence chess game outcomes, including player ratings, game type, termination conditions, and opening strategies.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-Visualization-blue) ![python--chess](https://img.shields.io/badge/python--chess-Chess%20Library-black) ![CSV](https://img.shields.io/badge/Data-PGN-lightgrey)
+
+[Project Repository](https://github.com/FatalError98/Chess_Games_Analysis)
 
 #### ♟️ Chess Game Outcome Prediction
 Predicts chess game outcomes using logistic regression with Elastic Net regularization on 117,000+ Lichess games. The project includes a complete data-processing and feature-engineering pipeline, cross-validated model tuning, and interpretation of key predictors influencing win probability. Emphasis is placed on prediction-focused modeling and reproducible analysis.
