@@ -26,12 +26,16 @@ This project analyzes a large-scale dataset of online chess games collected from
 
 [Project Repository](https://github.com/FatalError98/Chess_Games_Analysis)
 
+---
+
 #### ♟️ Chess Game Outcome Prediction
 Predicts chess game outcomes using logistic regression with Elastic Net regularization on 117,000+ Lichess games. The project includes a complete data-processing and feature-engineering pipeline, cross-validated model tuning, and interpretation of key predictors influencing win probability. Emphasis is placed on prediction-focused modeling and reproducible analysis.
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-Logistic%20Regression-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Elastic%20Net-green)
 
 [Project Repository](https://github.com/FatalError98/Chess_Game_Outcome_Prediction)
+
+---
 
 #### 📦 Restaurant Company Database
 A relational database project modeling a restaurant company’s organizational and supply-chain structure. The schema was designed from an ER diagram and mapped into normalized relational tables using PostgreSQL. Includes an ORM implementation using SQLAlchemy for application-level access.
@@ -50,6 +54,8 @@ A desktop application built using C# Windows Forms and Entity Framework to manag
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?logo=windows&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 [Project Repository](https://github.com/FatalError98/Inventory_Managment)
+
+---
 
 #### 📱 Mobile Application: BMI Calculator
 A mobile application built with Flutter and Dart that calculates Body Mass Index (BMI) based on user input. The app provides instant feedback and BMI classification through a simple, intuitive interface. Designed as a lightweight Android application focusing on usability and clean UI.
